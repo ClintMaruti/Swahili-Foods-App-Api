@@ -1,0 +1,7 @@
+{
+    "name": "Chakula APi: Node.js",
+    "description": "A simple API for Chakula App",
+    "repository": "https://github.com/ClintPy/swahili-app.git",
+    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+    "keywords": ["chakula", "recipe", "heroku"]
+  }
