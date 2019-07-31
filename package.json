@@ -1,0 +1,9 @@
+{
+  "name": "Swahili-Foods-App",
+  "version": "v1",
+  "description": "This is a simple recipe App API for Swahili Foods.",
+  "main": "app.js",
+  "repository": "https://github.com/ClintPy/swahili-app.git",
+  "author": "Clint-Dev",
+  "license": "MIT"
+}
